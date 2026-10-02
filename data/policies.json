@@ -1,0 +1,18 @@
+[
+  {
+    "id": "returns_headphones",
+    "text": "Opened headphones can be returned only if they are defective."
+  },
+  {
+    "id": "refund_window",
+    "text": "Refund requests are accepted within 30 days of purchase."
+  },
+  {
+    "id": "warranty",
+    "text": "The standard warranty period is one year from the date of purchase."
+  },
+  {
+    "id": "shipping",
+    "text": "Domestic standard shipping is free for orders over $50."
+  }
+]

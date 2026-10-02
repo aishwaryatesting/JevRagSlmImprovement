@@ -1,0 +1,7 @@
+-r requirements-rag.txt
+torch>=2.2
+transformers>=4.45
+datasets>=3.0
+accelerate>=1.0
+peft>=0.13
+trl>=0.11

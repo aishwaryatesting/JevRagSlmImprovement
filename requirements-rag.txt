@@ -1,0 +1,4 @@
+-r requirements.txt
+numpy>=1.26
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0

@@ -1,0 +1,6 @@
+evidence,claim,label
+"Opened headphones can be returned only if they are defective.","Opened headphones can be returned only if they are defective.",SUPPORTED
+"Opened headphones can be returned only if they are defective.","Opened headphones can always be returned.",CONTRADICTED
+"Refund requests are accepted within 30 days of purchase.","Refund requests are accepted within 30 days of purchase.",SUPPORTED
+"The standard warranty period is one year from the date of purchase.","The standard warranty period is one year.",SUPPORTED
+"Domestic standard shipping is free for orders over $50.","International shipping is free.",INSUFFICIENT

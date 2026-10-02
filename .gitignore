@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Secrets
+.env
+*.env
+*.key
+credentials/
+secrets/
+
+# Model artifacts
+artifacts/
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# Hugging Face cache
+.cache/
+huggingface/
+
+# Generated data
+data/enriched/
+data/processed/
+data/hard_examples/
+
+# Vector stores
+vector_store/
+*.faiss
+
+# Logs
+*.log
+install_log.txt
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

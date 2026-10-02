@@ -1,0 +1,18 @@
+{
+  "student_0_5b": {
+    "model": "Qwen/Qwen2.5-0.5B-Instruct",
+    "description": "Lowest memory/latency baseline."
+  },
+  "student_1_5b": {
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "description": "Recommended balanced student."
+  },
+  "student_3b": {
+    "model": "Qwen/Qwen2.5-3B-Instruct",
+    "description": "Higher-quality student if hardware permits."
+  },
+  "teacher_7b": {
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "description": "Teacher model; use larger GPU/cloud runtime."
+  }
+}
